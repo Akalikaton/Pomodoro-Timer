@@ -23,7 +23,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Large font displays remaining time for easy viewing from a distance.  
 
-![Focus Countdown](https://github.com/user-attachments/pomodoro/assets/02fc910b-c822-4062-822d-f4e7d5946199)  
+![专注倒计时](https://github.com/user-attachments/assets/02fc910b-c822-4062-822d-f4e7d5946199)
 
 ### Focus Paused (orange background)  
 
