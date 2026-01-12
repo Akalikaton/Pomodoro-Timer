@@ -33,7 +33,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Pause duration is counted toward total rest time.  
 
-![Focus Paused](https://github.com/user-attachments/pomodoro/assets/4b603c5c-8778-4e72-a8a6-c2eb7eccb08e)  
+![专注暂停](https://github.com/user-attachments/assets/4b603c5c-8778-4e72-a8a6-c2eb7eccb08e)
 
 ### Focus Completed (yellow background – awaiting rest)  
 
@@ -43,7 +43,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Waits for user action to begin rest period.  
 
-![Focus Completed](https://github.com/user-attachments/pomodoro/assets/b114b510-909d-44bd-8fe3-df0fe4cb02c6)  
+![专注结束](https://github.com/user-attachments/assets/b114b510-909d-44bd-8fe3-df0fe4cb02c6)
 
 ### Rest Countdown (5 min, orange background)  
 
@@ -53,7 +53,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Rest countdown cannot be paused.  
 
-![Rest Countdown](https://github.com/user-attachments/pomodoro/assets/541355a3-38c8-4188-b3ed-270f940fbc68)  
+![休息倒计时](https://github.com/user-attachments/assets/541355a3-38c8-4188-b3ed-270f940fbc68)
 
 ### Rest Completed (yellow background – awaiting focus)  
 
@@ -63,7 +63,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Time in this state is counted toward total rest duration.  
 
-![Rest Completed](https://github.com/user-attachments/pomodoro/assets/2ec7b902-6ee6-4fd8-b8be-7023527f9d08)  
+![休息结束](https://github.com/user-attachments/assets/2ec7b902-6ee6-4fd8-b8be-7023527f9d08)
 
 ### Smart Date Handling  
 
