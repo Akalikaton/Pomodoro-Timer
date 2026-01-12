@@ -1,5 +1,9 @@
 # Pomodoro Timer 
+
+**Language: [English](README.md) | [中文](README_CN.md)**
+
 A Pomodoro timer app designed for efficient work, featuring a minimalist UI to help users better manage focus and break time.  
+
 
 ## ✨ Features  
 
