@@ -121,12 +121,6 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Supports customizing the default 25-minute focus session.  
 
-### 🎨 Progress Visualization  
-
-- Entire background acts as a progress bar.  
-
-- Color gradually transitions from left to right to reflect time progression.  
-
 ### 📱 UI Optimization  
 
 - Research custom layout designs tailored to personal workflow needs.  
@@ -147,6 +141,10 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Alternatively, app switching counts as rest time or increments failure count.  
 
+### Force Stop
+
+- Force stop Focus or Break time, change to another
+- 
 ## 🛠 Tech Stack  
 
 - **Development Language**: Kotlin  
