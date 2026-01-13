@@ -127,7 +127,9 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Add portrait-mode support.  
 
-- Support orientation adaptation based on gravity sensor (charging port on left or right).  
+- Support orientation adaptation based on gravity sensor (charging port on left or right).
+
+- A too large countdown timer can potentially be distracting.
 
 ### 🌍 Multi-language Support  
 
