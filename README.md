@@ -13,11 +13,15 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - **Visual Feedback**: Different states are indicated by distinct background colors for intuitive status recognition.  
 
+- **Progress Bar**: Background color gradient as visual progress indicator
+  
 - **Data Tracking**: Real-time display of cumulative focus and rest durations.  
 
 - **Intelligent Alerts**: Dual reminders via vibration and screen flashing.  
 
-- **Deep Focus Mode**: Alerts vibrate only twice, then switch to silent color-coded state.  
+- **Deep Focus Mode**: Alerts vibrate only twice, then switch to silent color-coded state.
+
+- **Full-Screen Control**: Tap anywhere on screen as main interaction button
 
 ## 📱 Functional Description  
 
@@ -25,9 +29,11 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - 25-minute focus countdown with green background indicating active focus mode.  
 
-- Large font displays remaining time for easy viewing from a distance.  
+- Large font displays remaining time for easy viewing from a distance.
 
-![专注倒计时](https://github.com/user-attachments/assets/02fc910b-c822-4062-822d-f4e7d5946199)
+- Progress Bar: Background color gradient as visual progress indicator
+
+![Screenshot_20260113_121735_com example pomodoro](https://github.com/user-attachments/assets/5b94ae22-7e4f-4f92-a318-d3ba9a8ab9f2)
 
 ### Focus Paused (orange background)  
 
@@ -35,9 +41,9 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Displays cumulative focus and rest time statistics.  
 
-- Pause duration is counted toward total rest time.  
+- Pause duration is counted toward total rest time.
 
-![专注暂停](https://github.com/user-attachments/assets/4b603c5c-8778-4e72-a8a6-c2eb7eccb08e)
+![Screenshot_20260113_121730_com example pomodoro](https://github.com/user-attachments/assets/b4c019f0-9ad4-4339-ac24-960e29e38287)
 
 ### Focus Completed (yellow background – awaiting rest)  
 
@@ -47,7 +53,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Waits for user action to begin rest period.  
 
-![专注结束](https://github.com/user-attachments/assets/b114b510-909d-44bd-8fe3-df0fe4cb02c6)
+![Screenshot_20260113_121850_com example pomodoro](https://github.com/user-attachments/assets/62ee229e-106a-4557-a9e2-b8f122af7a06)
 
 ### Rest Countdown (5 min, orange background)  
 
@@ -55,9 +61,21 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Allows viewing cumulative focus/rest stats without interrupting the countdown.  
 
-- Rest countdown cannot be paused.  
+- Rest countdown cannot be paused.
 
-![休息倒计时](https://github.com/user-attachments/assets/541355a3-38c8-4188-b3ed-270f940fbc68)
+- Progress Bar: Background color gradient as visual progress indicator
+
+![Screenshot_20260113_121856_com example pomodoro](https://github.com/user-attachments/assets/6d43152c-9e6f-46f1-a0c6-c759b43dfd5d)
+
+### Rest View Stats (orange background)  
+
+- Background turns orange when break.  
+
+- Displays cumulative focus and rest time statistics.  
+
+- View Stats doesn't stop rest countdown.
+
+![Screenshot_20260113_121859_com example pomodoro](https://github.com/user-attachments/assets/40869d66-de9d-4a92-a340-b8bb52fe6f2d)
 
 ### Rest Completed (yellow background – awaiting focus)  
 
@@ -67,7 +85,7 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 
 - Time in this state is counted toward total rest duration.  
 
-![休息结束](https://github.com/user-attachments/assets/2ec7b902-6ee6-4fd8-b8be-7023527f9d08)
+![Screenshot_20260113_121905_com example pomodoro](https://github.com/user-attachments/assets/e2912bda-eeef-4cdc-8745-f78ca237f2e3)
 
 ### Smart Date Handling  
 
