@@ -144,7 +144,11 @@ A Pomodoro timer app designed for efficient work, featuring a minimalist UI to h
 ### Force Stop
 
 - Force stop Focus or Break time, change to another
-- 
+
+### Better Reminder
+
+- More time when Pause time, maybe every 1min or too push
+
 ## 🛠 Tech Stack  
 
 - **Development Language**: Kotlin  
